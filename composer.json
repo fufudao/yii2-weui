@@ -1,0 +1,36 @@
+{
+    "name": "fufudao/yii2-weui",
+    "type": "library",
+    "description": "weui components for fufudao ltd.",
+    "keywords": [
+        "fufudao",
+        "yii2",
+        "weui",
+        "ui components"
+    ],
+    "homepage": "https://github.com/fufudao/yii2-weui",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arlent",
+            "email": "cy@fufudao.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "fufudao\\weui\\" : "/" }
+    },
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "bower-asset/weui": "^1.1",
+        "bower-asset/weui.js": "^0.3.0"
+    },
+    "require-dev": {
+
+    },
+    "extra": {
+        "gateways": [
+
+        ]
+    }
+}
