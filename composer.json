@@ -23,7 +23,7 @@
         "php": ">=5.4",
         "yiisoft/yii2": "*",
         "bower-asset/weui": "^1.1",
-		"FortAwesome/Font-Awesome": "*"
+	"fortawesome/font-awesome": "*"
     },
     "require-dev": {
 
